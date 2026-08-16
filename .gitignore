@@ -1,0 +1,10 @@
+# Topic data: books, extracted text, page images and notes.
+# Topics are data, not part of the tool, and may contain copyrighted sources.
+topics/
+
+# Symlink into a local BMAD checkout outside this repository.
+.bmad
+
+# Python build artifacts.
+__pycache__/
+*.py[cod]
